@@ -1,0 +1,16 @@
+{
+  "name": "-objectdocumentmapper",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "moongose": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
